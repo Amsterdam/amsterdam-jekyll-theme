@@ -1,0 +1,5 @@
+include: [README.md,CONTRIBUTING.md]
+permalink: pretty
+
+# headerHideTitle: true
+headerHideLogo: true
