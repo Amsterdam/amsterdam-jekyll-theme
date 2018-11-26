@@ -175,7 +175,7 @@ main>.cards>a {
   justify-content: flex-start;
   padding: 1em;
 }
-main>.cards>a:link, main>.cards>a:hover {
+main>.cards>a:link, main>.cards>a:visited {
   color: black;
   text-decoration: none;
 }
